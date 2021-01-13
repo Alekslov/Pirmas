@@ -1,8 +1,8 @@
-package pirmas;
+package zaidimas;
 
 import java.util.Scanner;
 
-public class Pirmas {
+public class Zaidimas {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
